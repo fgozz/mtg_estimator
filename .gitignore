@@ -1,0 +1,8 @@
+# ambienti virtuali 
+env/
+
+# file cache
+__pycache__/
+
+# File di log
+*.log
